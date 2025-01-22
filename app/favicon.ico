@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.61" height="53.37" viewBox="0 0 70.61 53.37">
+  <defs>
+    <filter id="Vector" x="17.242" y="0.002" width="53.368" height="53.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.852" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.148" result="blur"/>
+      <feFlood flood-color="#2805ff" flood-opacity="0.027"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="1.867" x2="1.078" y2="0.114" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf8e"/>
+      <stop offset="1" stop-color="#ff8b79"/>
+    </linearGradient>
+    <filter id="Vector-2" x="0" y="0" width="53.366" height="53.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.852" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.148" result="blur-2"/>
+      <feFlood flood-color="#ea0025" flood-opacity="0.027"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo" transform="translate(9.444 -2.287)">
+    <g transform="matrix(1, 0, 0, 1, -9.44, 2.29)" filter="url(#Vector)">
+      <path id="Vector-3" data-name="Vector" d="M17.235,0A17.154,17.154,0,0,0,8.617,2.307a17.225,17.225,0,0,1,8.617,14.932H0A17.239,17.239,0,1,0,17.235,0Z" transform="translate(26.69 7.59)" fill="#0c0b14"/>
+    </g>
+    <path id="Vector-4" data-name="Vector" d="M8.617,0A17.225,17.225,0,0,0,0,14.932H17.235A17.225,17.225,0,0,0,8.617,0Z" transform="translate(17.242 12.19)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, -9.44, 2.29)" filter="url(#Vector-2)">
+      <path id="Vector-5" data-name="Vector" d="M25.86,2.31a17.225,17.225,0,0,1,8.617,14.932H17.242A17.225,17.225,0,0,0,25.86,32.169a17.239,17.239,0,1,1,0-29.859Z" transform="translate(9.44 7.59)" fill="#b985fb"/>
+    </g>
+  </g>
+</svg>
