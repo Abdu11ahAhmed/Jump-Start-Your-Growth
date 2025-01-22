@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108.889" height="108.889" viewBox="0 0 108.889 108.889">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6d6d8a"/>
+      <stop offset="1" stop-color="#37374a"/>
+    </linearGradient>
+    <filter id="Fill" x="0" y="0" width="108.889" height="108.889" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.852" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.148" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Fill)">
+    <circle id="Fill-2" data-name="Fill" cx="45" cy="45" r="45" transform="translate(9.44 7.59)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Icon" transform="translate(34.444 32.593)">
+    <path id="Vector" d="M38.277,24.383,34.6,21.508A14.475,14.475,0,0,0,34.687,20a14.038,14.038,0,0,0-.087-1.51l3.68-2.877a1.8,1.8,0,0,0,.435-2.3L34.892,6.7a1.772,1.772,0,0,0-2.212-.8L28.342,7.647a14.874,14.874,0,0,0-2.6-1.512l-.66-4.6A1.77,1.77,0,0,0,23.311,0H15.644a1.765,1.765,0,0,0-1.763,1.52l-.662,4.618a15.334,15.334,0,0,0-2.6,1.512L6.269,5.9a1.808,1.808,0,0,0-2.2.782L.246,13.308a1.792,1.792,0,0,0,.433,2.308l3.677,2.875a13.187,13.187,0,0,0,0,3.018L.676,24.387a1.8,1.8,0,0,0-.433,2.3L4.066,33.3a1.769,1.769,0,0,0,2.212.795l4.338-1.742a15.006,15.006,0,0,0,2.6,1.512l.66,4.6A1.769,1.769,0,0,0,15.646,40h7.667a1.767,1.767,0,0,0,1.765-1.52l.662-4.617a15.405,15.405,0,0,0,2.6-1.513l4.35,1.747a1.791,1.791,0,0,0,.653.123,1.76,1.76,0,0,0,1.542-.9l3.84-6.65A1.8,1.8,0,0,0,38.277,24.383Zm-18.8,2.283A6.667,6.667,0,1,1,26.144,20,6.673,6.673,0,0,1,19.477,26.667Z" transform="translate(0.524)" fill="#333363"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="108.889" height="108.889" viewBox="0 0 108.889 108.889">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6d6d8a"/>
+      <stop offset="1" stop-color="#37374a"/>
+    </linearGradient>
+    <filter id="Fill" x="0" y="0" width="108.889" height="108.889" filterUnits="userSpaceOnUse">
+      <feOffset dy="1.852" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.148" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Fill)">
+    <circle id="Fill-2" data-name="Fill" cx="45" cy="45" r="45" transform="translate(9.44 7.59)" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Icon" transform="translate(34.444 32.593)">
+    <path id="Vector" d="M19.665,3.369a11.523,11.523,0,1,0,0,16.3A11.489,11.489,0,0,0,19.665,3.369Z" transform="translate(11.6 5.366)" fill="#333363"/>
+    <path id="Vector-2" data-name="Vector" d="M28.821,4.945A16.883,16.883,0,1,0,4.945,28.821,16.883,16.883,0,1,0,28.821,4.945ZM25.981,25.981a12.866,12.866,0,1,1,0-18.195A12.827,12.827,0,0,1,25.981,25.981Z" transform="translate(6.234)" fill="#333363"/>
+    <path id="Vector-3" data-name="Vector" d="M7.62,0,.912,6.673a3.114,3.114,0,0,0,4.4,4.407L12.025,4.4a17.066,17.066,0,0,1-2.409-2A17.05,17.05,0,0,1,7.62,0Z" transform="translate(0 27.932)" fill="#333363"/>
+  </g>
+</svg>

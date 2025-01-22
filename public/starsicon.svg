@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128.434" height="48.434" viewBox="0 0 128.434 48.434">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6d6d8a"/>
+      <stop offset="1" stop-color="#37374a"/>
+    </linearGradient>
+    <filter id="Star_25" x="0" y="0" width="48.434" height="48.434" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.592" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.406" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Star_26" x="20" y="0" width="48.434" height="48.434" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.592" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.406" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Star_27" x="40" y="0" width="48.434" height="48.434" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.592" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.406" result="blur-3"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Star_28" x="60" y="0" width="48.434" height="48.434" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.592" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.406" result="blur-4"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Star_29" x="80" y="0" width="48.434" height="48.434" filterUnits="userSpaceOnUse">
+      <feOffset dy="2.592" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.406" result="blur-5"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Review" transform="translate(-1244.783 -284.374)">
+    <g transform="matrix(1, 0, 0, 1, 1244.78, 284.37)" filter="url(#Star_25)">
+      <path id="Star_25-2" data-name="Star 25" d="M10.052,2.82a1,1,0,0,1,1.9,0l1.58,4.7a1,1,0,0,0,.921.681l4.835.13a1,1,0,0,1,.6,1.778l-3.92,3.158a1,1,0,0,0-.335,1.05l1.388,4.915a1,1,0,0,1-1.549,1.082L11.586,17.5a1,1,0,0,0-1.172,0L6.532,20.314a1,1,0,0,1-1.549-1.082l1.388-4.915a1,1,0,0,0-.335-1.05l-3.92-3.158a1,1,0,0,1,.6-1.778L7.552,8.2a1,1,0,0,0,.921-.681Z" transform="translate(13.22 10.63)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1244.78, 284.37)" filter="url(#Star_26)">
+      <path id="Star_26-2" data-name="Star 26" d="M10.052,2.82a1,1,0,0,1,1.9,0l1.58,4.7a1,1,0,0,0,.921.681l4.835.13a1,1,0,0,1,.6,1.778l-3.92,3.158a1,1,0,0,0-.335,1.05l1.388,4.915a1,1,0,0,1-1.549,1.082L11.586,17.5a1,1,0,0,0-1.172,0L6.532,20.314a1,1,0,0,1-1.549-1.082l1.388-4.915a1,1,0,0,0-.335-1.05l-3.92-3.158a1,1,0,0,1,.6-1.778L7.552,8.2a1,1,0,0,0,.921-.681Z" transform="translate(33.22 10.63)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1244.78, 284.37)" filter="url(#Star_27)">
+      <path id="Star_27-2" data-name="Star 27" d="M10.052,2.82a1,1,0,0,1,1.9,0l1.58,4.7a1,1,0,0,0,.921.681l4.835.13a1,1,0,0,1,.6,1.778l-3.92,3.158a1,1,0,0,0-.335,1.05l1.388,4.915a1,1,0,0,1-1.549,1.082L11.586,17.5a1,1,0,0,0-1.172,0L6.532,20.314a1,1,0,0,1-1.549-1.082l1.388-4.915a1,1,0,0,0-.335-1.05l-3.92-3.158a1,1,0,0,1,.6-1.778L7.552,8.2a1,1,0,0,0,.921-.681Z" transform="translate(53.22 10.63)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1244.78, 284.37)" filter="url(#Star_28)">
+      <path id="Star_28-2" data-name="Star 28" d="M10.052,2.82a1,1,0,0,1,1.9,0l1.58,4.7a1,1,0,0,0,.921.681l4.835.13a1,1,0,0,1,.6,1.778l-3.92,3.158a1,1,0,0,0-.335,1.05l1.388,4.915a1,1,0,0,1-1.549,1.082L11.586,17.5a1,1,0,0,0-1.172,0L6.532,20.314a1,1,0,0,1-1.549-1.082l1.388-4.915a1,1,0,0,0-.335-1.05l-3.92-3.158a1,1,0,0,1,.6-1.778L7.552,8.2a1,1,0,0,0,.921-.681Z" transform="translate(73.22 10.63)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 1244.78, 284.37)" filter="url(#Star_29)">
+      <path id="Star_29-2" data-name="Star 29" d="M10.052,2.82a1,1,0,0,1,1.9,0l1.58,4.7a1,1,0,0,0,.921.681l4.835.13a1,1,0,0,1,.6,1.778l-3.92,3.158a1,1,0,0,0-.335,1.05l1.388,4.915a1,1,0,0,1-1.549,1.082L11.586,17.5a1,1,0,0,0-1.172,0L6.532,20.314a1,1,0,0,1-1.549-1.082l1.388-4.915a1,1,0,0,0-.335-1.05l-3.92-3.158a1,1,0,0,1,.6-1.778L7.552,8.2a1,1,0,0,0,.921-.681Z" transform="translate(93.22 10.63)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
